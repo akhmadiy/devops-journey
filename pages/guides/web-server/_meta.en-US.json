@@ -4,6 +4,12 @@
       "icon": "▶️",
       "description": "NGINX va NGINX Plus-ni web-server sifatida sozlash",
       "href": "/guides/web-server/configuring-nginx-webserver"
+    },
+    "configuring-nginx-content-caching": {
+      "title": "NGINX web-serverda kontent keyshlash",
+      "icon": "▶️",
+      "description": "NGINX web-serverda kontent keyshlashni sozlash",
+      "href": "/guides/web-server/configuring-nginx-content-caching"
     }
   }
   
